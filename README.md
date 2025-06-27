@@ -14,5 +14,5 @@ Bu repo, Blender kullanılarak oluşturulmuş detaylı bir 3D sokak sahnesi proj
 
 ## 🛠️ Kullanılan Araçlar
 
-- **Ana Yazılım:** [Blender 3.4] (Kullandığın Blender sürümünü yaz)
+- **Ana Yazılım:** [Blender 3.4]
 - **Render Motoru:** Cycles
